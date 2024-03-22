@@ -11,7 +11,10 @@ namespace Chapter4Exercises
         public static void Main(string[] args)
         {
             
-            
+            hurricane();
+            checkDigit();
+            rockPaperScissors();
+            lottery();
             
         }//end main
         
