@@ -174,7 +174,7 @@ namespace Chapter2
             singleEggs = totalEggs % DOZEN;
             WriteLine("There are {0} dozen and {1} single eggs this month", dozensOfEggs, singleEggs);
             
-            for (int j = 0; j < eggs.Length; j++)
+            for (int j = 0; j < eggs2.Length; j++)
             {
                 WriteLine("What is the amount of eggs for this chicken?");
                 string temp1 = ReadLine();
